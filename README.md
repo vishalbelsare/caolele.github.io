@@ -19,7 +19,7 @@
   - E.g.: recognition of traffic incidents and traffic signs/facilities, road/building extraction from satellite images, traffic visualization, etc.
 
 - 2007.6\~2013.4: **System Manager**, Polystar OSIX AB, Stockholm, Sweden
-  - Creator of Jupiter product for telecom big data visualization and analysis: http://www.polystar.com/products/jupiter . 
+  - Creator of Jupiter product for telecom big data visualization and analysis: http://www.polystar.com/products/jupiter. 
   - Lead/coordinate requirement analysis, design, development, T&V, and maintenance; own line responsibility of web developers.
 
 - 2004.6\~2006.8: **Software Engineer**, Ericsson, Shanghai, China
