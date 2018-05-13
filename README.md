@@ -55,8 +55,7 @@ Machine with Sparse Denoising Stacked-autoencoder, **Neurocomputing**.
 
 >\[7\] Lele Cao et. al., Optimization-based Extreme Learning Machine with
 Multi-kernel Learning Approach for Classification, International
-Conference on Pattern Recognition (**ICPR**), 2014, 3564-3569. (**rank
-A**; **EI** conference)
+Conference on Pattern Recognition (**ICPR**), 2014, 3564-3569.
 
 >\[8\] Lele Cao et. al., The Quantitative and Qualitative Evaluation of a
 Multi-Agent Microsimulation Model for Subway Carriage Design,
