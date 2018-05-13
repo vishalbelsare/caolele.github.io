@@ -34,7 +34,7 @@ Orthogonal Tiling and Pyramid Pooling, **Cognitive Computation**, 2017.
 
 >\[2\] Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
 Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems,
-Man, and Cybernetics: Systems**, 2017.
+Man, and Cybernetics: Systems**, 2017. (Pre-print)
 
 >\[3\] Lele Cao et. al., Advancing the Incremental Fusion of Robotic
 Sensory Features Using Online Multi-kernel Extreme Learning Machine,
@@ -68,7 +68,7 @@ for multimodal object image classification, International Conference on
 Multisensor Fusion and Information Integration for Intelligent Systems
 (MFI), 2014, 1-9.
 
->\[10\] Xiaolong Liu, Zhidong Deng, Hongchao Lu, Lele Cao, Benchmark for
+>\[10\] Xiaolong Liu, Zhidong Deng, Hongchao Lu, **Lele Cao**, Benchmark for
 Road Marking Detection: Dataset Specification and Performance Baseline,
 International Conference on Intelligent Transportation Systems
 (**ITSC**), 2017, 1-6.
@@ -94,6 +94,10 @@ on Neural Networks (**IJCNN**), 2016, 5218-5225.
 
 >\[15\] Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Analyzing Linear
 Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:1608.01059, 2017.
+
+>\[16\] Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (CIG), 2018. (Accepted)
+
+>\[17\] Xiaolong Liu, ZhiDong Deng, Hongchao Lu, **Lele Cao**, TRoM: A Novel Benchmark Dataset for Road Marking Detection, IEEE Intelligent Transportation Systems Transactions, 2018. (2nd Review)
 
 
 ## Patent
