@@ -26,77 +26,77 @@
   - 2004\~2005: development, verification, and troubleshooting of AXE system for CDMA core networks in Unicom, TATA, and Reliance.
   - 2005\~2006: lead a team performing GSM network verification, integration, and upgrade in collaboration with Ericsson Germany.
 
+
 ## Selected Publications
 
->\[1\] Lele Cao et. al., End-to-end Tactile Recognition using Residual
-Orthogonal Tiling and Pyramid Pooling, **Cognitive Computation**, 2017.
-(In press)
+1. >Lele Cao et. al., End-to-end Tactile Recognition using Residual
+Orthogonal Tiling and Pyramid Pooling, **Cognitive Computation**, 2017. (IN PRESS; DOI: 10.1007/s12559-018-9568-7)
 
->\[2\] Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
+1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
 Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems,
-Man, and Cybernetics: Systems**, 2017. (Pre-print)
+Man, and Cybernetics: Systems**, 2017. (DOI: 10.1109/TSMC.2017.2746565)
 
->\[3\] Lele Cao et. al., Advancing the Incremental Fusion of Robotic
+1. >Lele Cao et. al., Advancing the Incremental Fusion of Robotic
 Sensory Features Using Online Multi-kernel Extreme Learning Machine,
 **Frontiers of Computer Science**. 2017, 11(2): 276-289.
 
->\[4\] Lele Cao et. al., Fix-Budget and Recurrent Data Mining for Online
+1. >Lele Cao et. al., Fix-Budget and Recurrent Data Mining for Online
 Haptic Perception, International Conference on Neural Information
 Processing (**ICONIP**), 2017, 581-591.
 
->\[5\] Lele Cao et. al., Efficient Spatio-Temporal Tactile Object
+1. >Lele Cao et. al., Efficient Spatio-Temporal Tactile Object
 Recognition with Randomized Tiling Convolutional Networks in a
 Hierarchical Fusion Strategy, **AAAI Conference on Artificial
 Intelligence** (AAAI-16), 2016, 3337-3345.
 
->\[6\] Lele Cao et. al., Building Feature Space of Extreme Learning
+1. >Lele Cao et. al., Building Feature Space of Extreme Learning
 Machine with Sparse Denoising Stacked-autoencoder, **Neurocomputing**.
 2015, 174: 60-71.
 
->\[7\] Lele Cao et. al., Optimization-based Extreme Learning Machine with
+1. >Lele Cao et. al., Optimization-based Extreme Learning Machine with
 Multi-kernel Learning Approach for Classification, International
 Conference on Pattern Recognition (**ICPR**), 2014, 3564-3569.
 
->\[8\] Lele Cao et. al., The Quantitative and Qualitative Evaluation of a
+1. >Lele Cao et. al., The Quantitative and Qualitative Evaluation of a
 Multi-Agent Microsimulation Model for Subway Carriage Design,
 **International Journal of Microsimulation** (**IJM**), 2015, 8(3):
 6-40.
 
->\[9\] Lele Cao et. al., Optimization-based multikernel extreme learning
+1. >Lele Cao et. al., Optimization-based multikernel extreme learning
 for multimodal object image classification, International Conference on
 Multisensor Fusion and Information Integration for Intelligent Systems
 (MFI), 2014, 1-9.
 
->\[10\] Xiaolong Liu, Zhidong Deng, Hongchao Lu, **Lele Cao**, Benchmark for
+1. >Xiaolong Liu, Zhidong Deng, Hongchao Lu, **Lele Cao**, Benchmark for
 Road Marking Detection: Dataset Specification and Performance Baseline,
 International Conference on Intelligent Transportation Systems
 (**ITSC**), 2017, 1-6.
 
->\[11\] Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Sparse Coding and
+1. >Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Sparse Coding and
 Dictionary Learning with Linear Dynamical Systems, IEEE Conference on
 Computer Vision and Pattern Recognition (**CVPR**), 2016, 3938-3947.
 
->\[12\] Wenbing Huang, **Lele Cao**, etc., Learning Stable Linear
+1. >Wenbing Huang, **Lele Cao**, etc., Learning Stable Linear
 Dynamical Systems with the Weighted Least Square Method, International
 Joint Conference on Artificial Intelligence (**IJCAI**), 2016,
 1599-1605.
 
->\[13\] Haolin Yang, Deli Zhao, **Lele Cao**, etc., A Precise and Robust
+1. >Haolin Yang, Deli Zhao, **Lele Cao**, etc., A Precise and Robust
 Clustering Approach using Homophilic Degrees of Graph Kernel, The 20th
 Pacific Asia Conference on Knowledge Discovery and Data Mining
 (**PAKDD**), 2016, 257-270.
 
->\[14\] Haolin Yang, Fuchun Sun, **Lele Cao**, etc., Tactile Sequence
+1. >Haolin Yang, Fuchun Sun, **Lele Cao**, etc., Tactile Sequence
 Based Object Categorization: A Bag of Features Modeled by Linear Dynamic
 System with Symmetric Transition Matrix, International Joint Conference
 on Neural Networks (**IJCNN**), 2016, 5218-5225.
 
->\[15\] Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Analyzing Linear
+1. >Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Analyzing Linear
 Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:1608.01059, 2017.
 
->\[16\] Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (CIG), 2018. (Accepted)
+1. >Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (CIG), 2018. (Accepted)
 
->\[17\] Xiaolong Liu, ZhiDong Deng, Hongchao Lu, **Lele Cao**, TRoM: A Novel Benchmark Dataset for Road Marking Detection, IEEE Intelligent Transportation Systems Transactions, 2018. (2nd Review)
+1. >Xiaolong Liu, ZhiDong Deng, Hongchao Lu, **Lele Cao**, TRoM: A Novel Benchmark Dataset for Road Marking Detection, IEEE Intelligent Transportation Systems Transactions, 2018. (2nd Review)
 
 
 ## Patent
