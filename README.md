@@ -6,7 +6,7 @@
 
 -   2006.8\~2010.3: **M.Sc.**, Interactive Systems Engineering, Dept. of Computer and Sys. Sciences, **Royal Institute of Technology** (Sweden)
 
--   2001.9\~2005.6: **B.Eng.** (with Honor), Software Engineering, Dept. of Software Engineering, **Southeast University** (P.R. China)
+-   2001.9\~2005.6: **B.Eng.** (with Honor), Software Engineering, College of Software Engineering (n.k.a. School of Computer Science and Engineering), **Southeast University** (P.R. China)
 
 ## Occupation
 
@@ -29,12 +29,10 @@
 
 ## Selected Publications
 
-1. >Lele Cao et. al., End-to-end Tactile Recognition using Residual
-Orthogonal Tiling and Pyramid Pooling, **Cognitive Computation**, 2017. (IN PRESS; DOI: 10.1007/s12559-018-9568-7)
+1. >Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018. (DOI: 10.1007/s12559-018-9568-7)
 
 1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
-Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems,
-Man, and Cybernetics: Systems**, 2017. (DOI: 10.1109/TSMC.2017.2746565)
+Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2017. (DOI: 10.1109/TSMC.2017.2746565)
 
 1. >Lele Cao et. al., Advancing the Incremental Fusion of Robotic
 Sensory Features Using Online Multi-kernel Extreme Learning Machine,
@@ -53,8 +51,7 @@ Intelligence** (AAAI-16), 2016, 3337-3345.
 Machine with Sparse Denoising Stacked-autoencoder, **Neurocomputing**.
 2015, 174: 60-71.
 
-1. >Lele Cao et. al., Optimization-based Extreme Learning Machine with
-Multi-kernel Learning Approach for Classification, International
+1. >Lele Cao et. al., Optimization-based Extreme Learning Machine with Multi-kernel Learning Approach for Classification, International
 Conference on Pattern Recognition (**ICPR**), 2014, 3564-3569.
 
 1. >Lele Cao et. al., The Quantitative and Qualitative Evaluation of a
@@ -97,6 +94,8 @@ Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:16
 1. >Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (CIG), 2018. (Accepted)
 
 1. >Xiaolong Liu, ZhiDong Deng, Hongchao Lu, **Lele Cao**, TRoM: A Novel Benchmark Dataset for Road Marking Detection, IEEE Intelligent Transportation Systems Transactions, 2018. (2nd Review)
+
+1. >Lele Cao et. al., Fully Automated Road Extraction from Aerial Images: Classication vs. Segmentation DCNNs, Asian Conference on Computer Vision (ACCV), 2018. (Under Review)
 
 
 ## Patent
