@@ -1,4 +1,5 @@
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+remote_theme: mmistakes/minimal-mistakes
 title: Lele (Larry) Cao
 description: Ph.D. of Artificial Intelligence | AI Researcher | AI Developer
 author: caolele
