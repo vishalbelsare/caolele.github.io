@@ -64,6 +64,8 @@ for multimodal object image classification, International Conference on
 Multisensor Fusion and Information Integration for Intelligent Systems
 (MFI), 2014, 1-9.
 
+1. >Lele Cao et. al., A deep and stable extreme learning approach for classification and regression, Proceedings of ELM-2014 Volume 1. Springer, Cham, 2015: 141-150.
+
 1. >Xiaolong Liu, Zhidong Deng, Hongchao Lu, **Lele Cao**, Benchmark for
 Road Marking Detection: Dataset Specification and Performance Baseline,
 International Conference on Intelligent Transportation Systems
