@@ -11,9 +11,9 @@
 
 ## Occupation
 
-- 2017.4\~present: **Senior AI Engineer**, Activision Blizzard Group, Stockholm, Sweden (London, UK)
-  - General study and research in deep learning, reinforcement learning, and time-series modelling.
-  - Develop the real-time user-profiling platform based on the high-volume event stream from individual game players.
+- 2017.4\~present: **AI Engineer**, King, Activision Blizzard Group, Stockholm, Sweden
+  - Develop machine learning platform, and many use cases e.g. un/supervised user profiling, personalized recommendation etc.
+  - Frontier research survey of AI in Game: i.e. AI that plays the game, AI that creates the game, and AI that understand the game players.
 
 - 2016.8\~2017.4: **Senior Algorithm Engineer**, Alibaba Group, Beijing, China
   - Fundamental research & application of computer-vision and machine learning algorithms in the data centre of Amap: www.amap.com
@@ -36,7 +36,7 @@
 
 ## Selected Publications
 
-1. >Lele Cao, Fully Automated Road Extraction from Aerial Images: Classication vs. Segmentation DCNNs, Asian Conference on Computer Vision (ACCV), 2018. (Under Review)
+1. >Lele Cao, Fully Automated Road Extraction from Aerial Images: Classication vs. Segmentation DCNNs (Under Review)
 
 1. >Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018. (DOI: 10.1007/s12559-018-9568-7) [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
 
