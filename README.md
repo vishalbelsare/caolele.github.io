@@ -38,7 +38,7 @@
 
 1. >Lele Cao, Fully Automated Road Extraction from Aerial Images: Classication vs. Segmentation DCNNs (Under Review)
 
-1. >Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018. (DOI: 10.1007/s12559-018-9568-7) [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
+1. >Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018, 10(5): 718-736 [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
 
 1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
 Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2017. (DOI: 10.1109/TSMC.2017.2746565) [[link](https://ieeexplore.ieee.org/document/8031062/)]
@@ -102,7 +102,7 @@ on Neural Networks (**IJCNN**), 2016, 5218-5225. [[link](https://ieeexplore.ieee
 1. >Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Analyzing Linear
 Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:1608.01059, 2017. [[fulltext](https://arxiv.org/abs/1608.01059)]
 
-1. >Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (CIG), 2018. (Accepted)
+1. >Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (CIG), 2018, 1-8. [[link](https://ieeexplore.ieee.org/abstract/document/8490442)]
 
 1. >Xiaolong Liu, ZhiDong Deng, Hongchao Lu, **Lele Cao**, TRoM: A Novel Benchmark Dataset for Road Marking Detection, IEEE Intelligent Transportation Systems Transactions, 2018. (2nd Review)
 
