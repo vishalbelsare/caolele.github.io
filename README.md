@@ -36,7 +36,10 @@
 
 ## Selected Publications
 
-1. >Lele Cao, Fully Automated Road Extraction from Aerial Images: Classication vs. Segmentation DCNNs (Under Review)
+1. >Lele Cao, Fine-Grained Road Mining from Satellite Images with Bilateral Xception and DeepLab, 2019 (Under Review)
+
+1. >Lele Cao, et. al., Fusing Classification and Segmentation DCNNs for Road Feature
+Mining on Aerial Images, International Symposium on Information Fusion and Intelligent Geographical Information Systems (**IF&IGIS**), 2019 (Accepted)
 
 1. >Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018, 10(5): 718-736 [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
 
