@@ -13,14 +13,14 @@
 
 - 2017.4\~present: **Senior Machine Learning Engineer**, King Entertainment, Activision Blizzard Group, Stockholm, Sweden
   - Develop machine learning platform, and many use cases e.g. un/supervised user profiling, real-time recommendation, RL game agent, etc.
-  - Research survey (and student/intern supervision) of AI in Game: AI that plays the game, AI that creates the game, and AI that understands the game players.
+  - Research survey (and student/intern supervision) of AI in Game: AI that plays the game, AI that creates the game, and AI that models the game players.
 
 - 2016.8\~2017.4: **Senior Algorithm Engineer**, Alibaba Group, Beijing, China
   - Fundamental research & application of computer-vision and machine learning algorithms in the data centre of Amap: www.amap.com
   - E.g.: recognition of traffic incidents and traffic signs/facilities, road/building extraction from satellite images, traffic visualization, etc.
 
-- 2007.6\~2013.4: **System Manager**, Polystar Group, Stockholm, Sweden
-  - Creator of Jupiter product for telecom big data visualization and analysis: http://www.polystar.com/products/jupiter. 
+- 2007.6\~2013.4: **System Manager**, Elisa Group, Stockholm, Sweden
+  - Build an interactive telecom big data visualisation and analytics platform in Polystar (n.k.a Elisa): http://www.polystar.com/products/jupiter. 
   - Lead/coordinate requirement analysis, design, development, T&V, and maintenance; own line responsibility of web developers.
 
 - 2004.6\~2006.8: **Software Engineer**, Ericsson, Shanghai, China
@@ -30,14 +30,14 @@
 
 ## Patent
 
-- CN106295703A - method for modeling and recognizing time sequence;
+- [CN106295703A](https://patents.google.com/patent/CN106295703A/en) - method for modeling and recognizing time sequence;
 (2017.1)
 
 
 ## Selected Publications
 
 1. >Lele Cao, Fine-Grained Road Mining from Satellite Images with Bilateral Xception and DeepLab, International Joint Conference
-on Neural Networks (**IJCNN**), 2019 (Accepted)
+on Neural Networks (**IJCNN**), 2019 (In-press)
 
 1. >Lele Cao, et. al., Fusing Classification and Segmentation DCNNs for Road Feature
 Mining on Aerial Images, International Symposium on Information Fusion and Intelligent Geographical Information Systems (**IF&IGIS**), 2019 (In-press)
