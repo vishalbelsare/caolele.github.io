@@ -37,7 +37,7 @@
 ## Selected Publications
 
 1. >Lele Cao, Fine-Grained Road Mining from Satellite Images with Bilateral Xception and DeepLab, International Joint Conference
-on Neural Networks (**IJCNN**), 2019 (In-press)
+on Neural Networks (**IJCNN**), 2019, 1-8. [[link](https://ieeexplore.ieee.org/document/8852009)]
 
 1. >Lele Cao, et. al., Fusing Classification and Segmentation DCNNs for Road Feature
 Mining on Aerial Images, International Symposium on Information Fusion and Intelligent Geographical Information Systems (**IF&IGIS**), 2019 (In-press)
@@ -106,7 +106,7 @@ on Neural Networks (**IJCNN**), 2016, 5218-5225. [[link](https://ieeexplore.ieee
 1. >Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Analyzing Linear
 Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:1608.01059, 2017. [[fulltext](https://arxiv.org/abs/1608.01059)]
 
-1. >Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (CIG), 2018, 1-8. [[link](https://ieeexplore.ieee.org/abstract/document/8490442)]
+1. >Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (**CIG**), 2018, 1-8. [[link](https://ieeexplore.ieee.org/abstract/document/8490442)]
 
 1. >Xiaolong Liu, ZhiDong Deng, Hongchao Lu, **Lele Cao**, TRoM: A Novel Benchmark Dataset for Road Marking Detection, IEEE Intelligent Transportation Systems Transactions, 2018. (2nd Review)
 
