@@ -36,16 +36,15 @@
 
 ## Selected Publications
 
+1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
+Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2020, 50(4): 1350-1361 [[link](https://ieeexplore.ieee.org/document/8031062)]
+
+1. >Cao, Lele, et. al., "Fusing Classification and Segmentation DCNNs for Road Feature Mining on Aerial Images." Information Fusion and Intelligent Geographic Information Systems. Springer, Cham, 2020, 97-109. [[link](https://link.springer.com/chapter/10.1007/978-3-030-31608-2_7), [video](https://www.youtube.com/watch?v=onPTo_lyG4c)]
+
 1. >Lele Cao, Fine-Grained Road Mining from Satellite Images with Bilateral Xception and DeepLab, International Joint Conference
 on Neural Networks (**IJCNN**), 2019, 1-8. [[link](https://ieeexplore.ieee.org/document/8852009)]
 
-1. >Lele Cao, et. al., Fusing Classification and Segmentation DCNNs for Road Feature
-Mining on Aerial Images, International Symposium on Information Fusion and Intelligent Geographical Information Systems (**IF&IGIS**), 2019 (In-press)
-
-1. >Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018, 10(5): 718-736 [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
-
-1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
-Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2017. (DOI: 10.1109/TSMC.2017.2746565) [[link](https://ieeexplore.ieee.org/document/8031062/)]
+1. >Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018, 10(5): 718-736. [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
 
 1. >Lele Cao et. al., Advancing the Incremental Fusion of Robotic
 Sensory Features Using Online Multi-kernel Extreme Learning Machine,
