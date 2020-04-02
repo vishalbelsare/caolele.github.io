@@ -34,10 +34,10 @@
 (2017.1)
 
 
-## Selected Publications
+## Publications
 
 1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
-Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2020, 50(4): 1350-1361 [[link](https://ieeexplore.ieee.org/document/8031062)]
+Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2020, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
 
 1. >Cao, Lele, et. al., "Fusing Classification and Segmentation DCNNs for Road Feature Mining on Aerial Images." Information Fusion and Intelligent Geographic Information Systems. Springer, Cham, 2020, 97-109. [[link](https://link.springer.com/chapter/10.1007/978-3-030-31608-2_7), [video](https://www.youtube.com/watch?v=onPTo_lyG4c)]
 
