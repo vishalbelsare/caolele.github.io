@@ -39,7 +39,7 @@
 1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
 Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2020, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
 
-1. >Cao, Lele, et. al., "Fusing Classification and Segmentation DCNNs for Road Feature Mining on Aerial Images." Information Fusion and Intelligent Geographic Information Systems. Springer, Cham, 2020, 97-109. [[link](https://link.springer.com/chapter/10.1007/978-3-030-31608-2_7), [video](https://www.youtube.com/watch?v=onPTo_lyG4c)]
+1. >Cao, Lele, et. al., "Fusing Classification and Segmentation DCNNs for Road Feature Mining on Aerial Images." Information Fusion and Intelligent Geographic Information Systems. Springer, 2020, 97-109. [[link](https://link.springer.com/chapter/10.1007/978-3-030-31608-2_7), [video](https://www.youtube.com/watch?v=onPTo_lyG4c)]
 
 1. >Lele Cao, Fine-Grained Road Mining from Satellite Images with Bilateral Xception and DeepLab, International Joint Conference
 on Neural Networks (**IJCNN**), 2019, 1-8. [[link](https://ieeexplore.ieee.org/document/8852009)]
@@ -57,7 +57,7 @@ Processing (**ICONIP**), 2017, 581-591. [[link](https://link.springer.com/chapte
 1. >Lele Cao et. al., Efficient Spatio-Temporal Tactile Object
 Recognition with Randomized Tiling Convolutional Networks in a
 Hierarchical Fusion Strategy, **AAAI Conference on Artificial
-Intelligence** (AAAI-16), 2016, 3337-3345. [[link](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12008), [fulltext](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12008/12099)]
+Intelligence** (AAAI-16), 2016, 3337-3345. [[link](https://dl.acm.org/doi/10.5555/3016100.3016371), [fulltext](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12008/12099)]
 
 1. >Lele Cao et. al., Building Feature Space of Extreme Learning
 Machine with Sparse Denoising Stacked-autoencoder, **Neurocomputing**.
@@ -81,7 +81,7 @@ Multisensor Fusion and Information Integration for Intelligent Systems
 1. >Xiaolong Liu, Zhidong Deng, Hongchao Lu, **Lele Cao**, Benchmark for
 Road Marking Detection: Dataset Specification and Performance Baseline,
 International Conference on Intelligent Transportation Systems
-(**ITSC**), 2017, 1-6. [[link](https://ieeexplore.ieee.org/document/8317749/)]
+(**ITSC**), 2017, 1-6. [[link](https://ieeexplore.ieee.org/document/8317749/), [data](http://www.tromai.icoc.me/)]
 
 1. >Wenbing Huang, Fuchun Sun, **Lele Cao**, etc., Sparse Coding and
 Dictionary Learning with Linear Dynamical Systems, IEEE Conference on
@@ -106,8 +106,6 @@ on Neural Networks (**IJCNN**), 2016, 5218-5225. [[link](https://ieeexplore.ieee
 Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:1608.01059, 2017. [[fulltext](https://arxiv.org/abs/1608.01059)]
 
 1. >Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (**CIG**), 2018, 1-8. [[link](https://ieeexplore.ieee.org/abstract/document/8490442)]
-
-1. >Xiaolong Liu, ZhiDong Deng, Hongchao Lu, **Lele Cao**, TRoM: A Novel Benchmark Dataset for Road Marking Detection, IEEE Intelligent Transportation Systems Transactions, 2018. (2nd Review)
 
 1. >Janis Meissner, Lele Cao, et al., Music Waggon: Travel in Rhythm, Proceedings of Student Interaction Design Research (SIDeR) Conference, 2006. [[fulltext](https://pdfs.semanticscholar.org/2daf/bc08d4226f01e12b9bd123d73f6f5be06c93.pdf), [slides](https://slideplayer.com/slide/4949998/)]
 
