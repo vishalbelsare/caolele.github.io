@@ -69,7 +69,7 @@ Conference on Pattern Recognition (**ICPR**), 2014, 3564-3569. [[link](https://i
 1. >Lele Cao et. al., The Quantitative and Qualitative Evaluation of a
 Multi-Agent Microsimulation Model for Subway Carriage Design,
 **International Journal of Microsimulation** (**IJM**), 2015, 8(3):
-6-40. [[link](https://econpapers.repec.org/article/ijmjournl/v_3a8_3ay_3a2015_3ai_3a3_3ap_3a6-40.htm), [fulltext](http://microsimulation.org/IJM/V8_3/IJM_8_3_2015_Cao.pdf)]
+6-40. [[link](http://www.scopus.com/inward/record.url?eid=2-s2.0-85006070109&partnerID=MN8TOARS), [fulltext](http://microsimulation.org/IJM/V8_3/IJM_8_3_2015_Cao.pdf)]
 
 1. >Lele Cao et. al., Optimization-based multikernel extreme learning
 for multimodal object image classification, International Conference on
