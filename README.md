@@ -36,6 +36,8 @@
 
 ## Publications
 
+1. >Lele Cao et. al., Simple, Scalable, and Stable Variational Deep Clustering,  arXiv preprint arXiv:2005.08047, 2020. [[fulltext](https://arxiv.org/abs/2005.08047), [code](https://github.com/king/s3vdc)]
+
 1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
 Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2020, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
 
