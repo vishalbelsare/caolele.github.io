@@ -11,19 +11,22 @@
 
 ## Occupation
 
-- 2017.4\~present: **Senior Machine Learning Engineer**, King Entertainment, Activision Blizzard Group, Stockholm, Sweden
+- 2020.5\~present: **Senior Data Scientist**, [EQT Group](https://www.eqtgroup.com/), Stockholm, Sweden
+  - Work in Motherbrain team on data driven investment tracking and recommendation.
+
+- 2017.4\~2020.5: **Senior Machine Learning Engineer**, [King Entertainment](https://www.king.com/), [Activision Blizzard Group](https://www.activisionblizzard.com/), Stockholm, Sweden
   - Develop machine learning platform, and many use cases e.g. un/supervised user profiling, real-time recommendation, RL game agent, etc.
   - Research survey (and student/intern supervision) of AI in Game: AI that plays the game, AI that creates the game, and AI that models the game players.
 
-- 2016.8\~2017.4: **Senior Algorithm Engineer**, Alibaba Group, Beijing, China
-  - Fundamental research & application of computer-vision and machine learning algorithms in the data centre of Amap: www.amap.com
+- 2016.8\~2017.4: **Senior Algorithm Engineer**, [Alibaba Group](https://www.alibabagroup.com/en/global/home), Beijing, China
+  - Fundamental research & application of computer-vision and machine learning algorithms in the data centre of the [GIS service](https://gaode.com/).
   - E.g.: recognition of traffic incidents and traffic signs/facilities, road/building extraction from satellite images, traffic visualization, etc.
 
-- 2007.6\~2013.4: **System Manager**, Elisa Group, Stockholm, Sweden
-  - Build an interactive telecom big data visualisation and analytics platform in Polystar (n.k.a Elisa): http://www.polystar.com/products/jupiter. 
+- 2007.6\~2013.4: **System Manager**, [Elisa Group](https://elisa.com/), Stockholm, Sweden
+  - Build an interactive telecom big data visualization and analytics platform in [Polystar (acquired by Elisa)](https://elisa.com/). 
   - Lead/coordinate requirement analysis, design, development, T&V, and maintenance; own line responsibility of web developers.
 
-- 2004.6\~2006.8: **Software Engineer**, Ericsson, Shanghai, China
+- 2004.6\~2006.8: **Software Engineer**, [Ericsson](https://www.ericsson.com/en), Shanghai, China
   - 2004\~2005: development, verification, and troubleshooting of AXE system for CDMA core networks in Unicom, TATA, and Reliance.
   - 2005\~2006: lead a team performing GSM network verification, integration, and upgrade in collaboration with Ericsson Germany.
 
@@ -36,7 +39,9 @@
 
 ## Publications
 
-1. >Lele Cao et. al., Simple, Scalable, and Stable Variational Deep Clustering,  arXiv preprint arXiv:2005.08047, 2020. [[fulltext](https://arxiv.org/abs/2005.08047), [code](https://github.com/king/s3vdc)]
+1. >Francesco Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao et. al., Use All Your Skills, Not Only The Most Popular Ones, IEEE Conference on Games (**CoG**), 2020.
+
+1. >Lele Cao et. al., Simple, Scalable, and Stable Variational Deep Clustering,  European Conference on Machine Learning (**ECML**), 2020. [[fulltext](https://arxiv.org/abs/2005.08047), [code](https://github.com/king/s3vdc)]
 
 1. >Lele Cao et. al., Real-Time Recurrent Tactile Recognition:
 Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2020, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
