@@ -3,6 +3,9 @@
   dates: 2012 - 2016
   qualification: Doctor of Engineering (Ph.D.)
   quote: >
-    Four-year full-time Ph.D. research in the Department of Computer Science and Technology, specialized in machine learning and robotics. 
+    It is a 4-year full-time Ph.D. research in the Department of Computer Science and Technology, specialized in machine learning and robotics. My doctoral dissertation is titled "The Efficient Spatio-Temporal Representation and Fusion of Tactile Sequences".
   description: | # this will include new lines to allow paragraphs
-    - Lele Cao et. al., Real-Time Recurrent Tactile Recognition: Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2020, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
+    - Lele Cao et. al., Real-Time Recurrent Tactile Recognition: Momentum Batch-Sequential Echo State Networks, **IEEE Trans. on Systems, Man, and Cybernetics: Systems**, 2017, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
+    - Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, **Cognitive Computation**, 2018, 10(5): 718-736. [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
+    - Lele Cao et. al., Advancing the Incremental Fusion of Robotic Sensory Features Using Online Multi-kernel Extreme Learning Machine, **Frontiers of Computer Science**. 2017, 11(2): 276-289. [[link](https://link.springer.com/article/10.1007/s11704-016-5171-9)]
+    - Lele Cao et. al., Fix-Budget and Recurrent Data Mining for Online Haptic Perception, International Conference on Neural Information Processing (**ICONIP**), 2017, 581-591. [[link](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_59)]
