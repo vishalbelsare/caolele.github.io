@@ -28,23 +28,21 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
+# Education Section
+educaton_title: Education
+
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
-# Education Section
-# educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Publications
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - Francesco Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao et. al., Use All Your Skills, Not Only The Most Popular Ones, IEEE Conference on Games (**CoG**), 2020.
+  - Lele Cao et. al., Simple, Scalable, and Stable Variational Deep Clustering,  European Conference on Machine Learning (**ECML**), 2020. [[fulltext](https://arxiv.org/abs/2005.08047), [code](https://github.com/king/s3vdc)]
 
 # Footer
 footer_show_references: true
