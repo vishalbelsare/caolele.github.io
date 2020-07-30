@@ -3,8 +3,10 @@
   dates: 2012 - 2016
   qualification: Doctor of Engineering (Ph.D.)
   quote: >
-    Full-time 4-year Ph.D. research in the Department of Computer Science and Technology, specialized in machine learning and robotics. My doctoral dissertation is titled "The Efficient Spatio-Temporal Representation and Fusion of Tactile Sequences".
+    Tsinghua University is one of the most prestigious universities in the world and ranked as the number one university in China and Asia by the Times Higher Education World University Rankings.
   description: | # this will include new lines to allow paragraphs
+    Full-time 4-year Ph.D. research in the Department of Computer Science and Technology, specialized in machine learning and robotics. My doctoral dissertation is titled "The Efficient Spatio-Temporal Representation and Fusion of Tactile Sequences".
+
     - Lele Cao et. al., Real-Time Recurrent Tactile Recognition: Momentum Batch-Sequential Echo State Networks, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
     - Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, Cognitive Computation, 2018, 10(5): 718-736. [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
     - Lele Cao et. al., Advancing the Incremental Fusion of Robotic Sensory Features Using Online Multi-kernel Extreme Learning Machine, Frontiers of Computer Science. 2017, 11(2): 276-289. [[link](https://link.springer.com/article/10.1007/s11704-016-5171-9)]
@@ -16,12 +18,14 @@
     - Wenbing Huang, Fuchun Sun, Lele Cao, etc., Analyzing Linear Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:1608.01059, 2017. [[fulltext](https://arxiv.org/abs/1608.01059)]
 
 - layout: left
-  name: University of Melbourne
+  name: The University of Melbourne
   dates: 2015 - 2016
   qualification: Visiting Ph.D. Scholar
   quote: >
-    Full-time 12-month research in the Department of Computing and Information Systems, with a focus of tactile recognition using machine learning methods.
+    The University of Melbourne is a public research university, which is Australia's second oldest university and the oldest in Victoria.
   description: | # this will include new lines to allow paragraphs
+    Full-time 12-month research in the Department of Computing and Information Systems, with a focus of tactile recognition using machine learning methods.
+    
     - Lele Cao et. al., Efficient Spatio-Temporal Tactile Object Recognition with Randomized Tiling Convolutional Networks in a Hierarchical Fusion Strategy, AAAI Conference on Artificial Intelligence (AAAI-16), 2016, 3337-3345. [[link](https://dl.acm.org/doi/10.5555/3016100.3016371), [fulltext](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12008/12099)]
     - Haolin Yang, Deli Zhao, Lele Cao, etc., A Precise and Robust Clustering Approach using Homophilic Degrees of Graph Kernel, The 20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2016, 257-270. [[link](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_21)]
     - Lele Cao et. al., Fix-Budget and Recurrent Data Mining for Online Haptic Perception, International Conference on Neural Information Processing (ICONIP), 2017, 581-591. [[link](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_59)]
