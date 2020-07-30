@@ -46,8 +46,9 @@ more_content: | # this will include new lines to allow paragraphs
   Program Chair: [ECML-PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)
 
   Master Thesis Supervision: 
-  [Max Fischer](https://www.diva-portal.org/smash/get/diva2:1334684/FULLTEXT01.pdf) (Linköping University, 2019)
-  [Alice Karnsund](http://kth.diva-portal.org/smash/get/diva2:1368129/FULLTEXT01.pdf) (KTH, 2019)
+  [Max Fischer](https://www.diva-portal.org/smash/get/diva2:1334684/FULLTEXT01.pdf) (Linköping University, 2019),
+  [Alice Karnsund](http://kth.diva-portal.org/smash/get/diva2:1368129/FULLTEXT01.pdf) (KTH, 2019),
+  [Bohua Li](http://kth.diva-portal.org/smash/get/diva2:274188/FULLTEXT01) (KTH, 2009)
 
 # Footer
 footer_show_references: true
