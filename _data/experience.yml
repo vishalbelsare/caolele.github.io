@@ -6,7 +6,7 @@
   quote: >
     EQT invests in good companies across the world with a mission to help them develop into great and sustainable companies.
   description: | # this will include new lines to allow paragraphs
-    Work in Motherbrain team on data driven investment tracking and recommendation.
+    ■ Work in Motherbrain team on data driven investment tracking and recommendation.
 
 
 - layout: left
@@ -17,9 +17,9 @@
   quote: >
     King is a leading interactive entertainment company for the mobile world, with people all around the world playing their games.
   description: | # this will include new lines to allow paragraphs
-    Develop machine learning platform, and many use cases e.g. un/supervised user profiling, real-time recommendation, RL game agent, etc. 
+    ■ Develop machine learning platform, and use cases such as user profiling, recommendation, RL game agent, etc. 
     
-    Research survey (and student/intern supervision) of Game AI: AI that plays the game, creates the game, and models the players.
+    ■ Research survey (and student/intern supervision) of Game AI: AI that plays the game, creates the game, and models the players.
 
     - Francesco Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao et. al., Use All Your Skills, Not Only The Most Popular Ones, IEEE Conference on Games (**CoG**), 2020.
     - Lele Cao et. al., Simple, Scalable, and Stable Variational Deep Clustering,  European Conference on Machine Learning (**ECML**), 2020. [[fulltext](https://arxiv.org/abs/2005.08047), [code](https://github.com/king/s3vdc)]
