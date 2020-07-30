@@ -10,14 +10,15 @@
 
 
 - layout: left
-  company: King Entertainment (Activision Blizzard Group)
+  company: King
   link: www.king.com
   job_title: Senior Machine Learning Engineer
   dates: April 2017 - May 2020
   quote: >
-    I develop machine learning platform, and many use cases e.g. un/supervised user profiling, real-time recommendation, RL game agent, etc. 
-    I also do research survey (and student/intern supervision) of AI in Game: AI that plays the game, AI that creates the game, and AI that models the game players.
+    King is a leading interactive entertainment company for the mobile world, with people all around the world playing their games.
   description: | # this will include new lines to allow paragraphs
+    I develop machine learning platform, and many use cases e.g. un/supervised user profiling, real-time recommendation, RL game agent, etc. I also do research survey (and student/intern supervision) of AI in Game: AI that plays the game, AI that creates the game, and AI that models the game players.
+
     - Francesco Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao et. al., Use All Your Skills, Not Only The Most Popular Ones, IEEE Conference on Games (**CoG**), 2020.
     - Lele Cao et. al., Simple, Scalable, and Stable Variational Deep Clustering,  European Conference on Machine Learning (**ECML**), 2020. [[fulltext](https://arxiv.org/abs/2005.08047), [code](https://github.com/king/s3vdc)]
     - Stefan Freyr Gudmundsson, Philipp Eisen, Erik Poromaa, Alex Nodet, Sami Purmonen, Bartlomiej Kozakowski, Richard Meurling, **Lele Cao**, Human-Like Playtesting with Deep Learning, The IEEE Conference of Computational Intelligence and Games (**CIG**), 2018, 1-8. [[link](https://ieeexplore.ieee.org/abstract/document/8490442)]
