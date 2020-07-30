@@ -18,6 +18,7 @@
     King is a leading interactive entertainment company for the mobile world, with people all around the world playing their games.
   description: | # this will include new lines to allow paragraphs
     Develop machine learning platform, and many use cases e.g. un/supervised user profiling, real-time recommendation, RL game agent, etc. 
+    
     Research survey (and student/intern supervision) of Game AI: AI that plays the game, creates the game, and models the players.
 
     - Francesco Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao et. al., Use All Your Skills, Not Only The Most Popular Ones, IEEE Conference on Games (**CoG**), 2020.
