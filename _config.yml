@@ -32,17 +32,18 @@ about_content: | # this will include new lines to allow paragraphs
 projects_title: News
 
 # Experience Section
-experience_title: Occupational Experience
+experience_title: Experience
 
 # Education Section
-educaton_title: Education & Research
+educaton_title: Education
 
 
 # More Section
-more_title: Publications
+more_title: More about me ...
 more_content: | # this will include new lines to allow paragraphs
-  - Francesco Lorenzo, Sahar Asadi, Alice Karnsund, Lele Cao et. al., Use All Your Skills, Not Only The Most Popular Ones, IEEE Conference on Games (**CoG**), 2020.
-  - Lele Cao et. al., Simple, Scalable, and Stable Variational Deep Clustering,  European Conference on Machine Learning (**ECML**), 2020. [[fulltext](https://arxiv.org/abs/2005.08047), [code](https://github.com/king/s3vdc)]
+  - Patent: [CN106295703A](https://patents.google.com/patent/CN106295703A/en) (2017.1)
+  - Program Chair: ECML-PKDD 2020
+  - Master Thesis Supervision: [Max Fischer](https://www.diva-portal.org/smash/get/diva2:1334684/FULLTEXT01.pdf) (Linköping University, 2019)
 
 # Footer
 footer_show_references: true
