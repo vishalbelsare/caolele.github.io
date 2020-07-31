@@ -40,3 +40,4 @@
 
     - Cao, Lele, et. al., "Fusing classification and segmentation DCNNs for road feature mining on aerial images." Information Fusion and Intelligent Geographic Information Systems. Springer, 2020, 97-109. [[link](https://link.springer.com/chapter/10.1007/978-3-030-31608-2_7), [video](https://www.youtube.com/watch?v=onPTo_lyG4c)]
     - Lele Cao, Fine-grained road mining from satellite images with bilateral xception and DeepLab, International Joint Conference on Neural Networks (**IJCNN**), 2019, 1-8. [[link](https://ieeexplore.ieee.org/document/8852009)]
+    - Xiaolong Liu, Zhidong Deng, Hongchao Lu, Lele Cao, Benchmark for road marking detection: dataset specification and performance baseline, International Conference on Intelligent Transportation Systems (ITSC), 2017, 1-6. [[link](https://ieeexplore.ieee.org/document/8317749/), [data](http://www.tromai.icoc.me/)]
