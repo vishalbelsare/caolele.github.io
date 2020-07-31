@@ -9,15 +9,16 @@
     
     ■ Doctoral dissertation: "The Efficient Spatio-Temporal Representation and Fusion of Tactile Sequences".
 
-    - Lele Cao et. al., Real-Time Recurrent Tactile Recognition: Momentum Batch-Sequential Echo State Networks, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
-    - Lele Cao et. al., End-to-End ConvNet for Tactile Recognition Using Residual Orthogonal Tiling and Pyramid Convolution Ensemble, Cognitive Computation, 2018, 10(5): 718-736. [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
-    - Lele Cao et. al., Advancing the Incremental Fusion of Robotic Sensory Features Using Online Multi-kernel Extreme Learning Machine, Frontiers of Computer Science. 2017, 11(2): 276-289. [[link](https://link.springer.com/article/10.1007/s11704-016-5171-9)]
-    - Lele Cao et. al., Building Feature Space of Extreme Learning Machine with Sparse Denoising Stacked-autoencoder, Neurocomputing. 2015, 174: 60-71. [[link](https://www.sciencedirect.com/science/article/pii/S0925231215011674)]
-    - Lele Cao et. al., Optimization-based Extreme Learning Machine with Multi-kernel Learning Approach for Classification, International Conference on Pattern Recognition (ICPR), 2014, 3564-3569. [[link](https://ieeexplore.ieee.org/document/6977325/)]
+    - Lele Cao et. al., Real-time recurrent tactile recognition: momentum batch-sequential echo state networks, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
+    - Lele Cao et. al., End-to-end ConvNet for tactile recognition using residual orthogonal tiling and pyramid convolution Ensemble, Cognitive Computation, 2018, 10(5): 718-736. [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
+    - Lele Cao et. al., Advancing the incremental fusion of robotic sensory features using online multi-kernel extreme learning, Frontiers of Computer Science. 2017, 11(2): 276-289. [[link](https://link.springer.com/article/10.1007/s11704-016-5171-9)]
+    - Lele Cao et. al., Building feature space of extreme learning machine with sparse denoising stacked-autoencoder, Neurocomputing. 2015, 174: 60-71. [[link](https://www.sciencedirect.com/science/article/pii/S0925231215011674)]
+    - Lele Cao et. al., Optimization-based extreme learning machine with multi-kernel learning approach for classification, International Conference on Pattern Recognition (ICPR), 2014, 3564-3569. [[link](https://ieeexplore.ieee.org/document/6977325/)]
     - Lele Cao et. al., Optimization-based multikernel extreme learning for multimodal object image classification, International Conference on Multisensor Fusion and Information Integration for Intelligent Systems (MFI), 2014, 1-9. [[link](https://ieeexplore.ieee.org/document/6997629/)]
-    - Wenbing Huang, Fuchun Sun, Lele Cao, etc., Sparse Coding and Dictionary Learning with Linear Dynamical Systems, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, 3938-3947. [[link](https://ieeexplore.ieee.org/abstract/document/7780796/), [fulltext](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Sparse_Coding_and_CVPR_2016_paper.pdf), [video](https://www.youtube.com/watch?v=0PA1VYyehoQ)]
-    - Wenbing Huang, Lele Cao, etc., Learning Stable Linear Dynamical Systems with the Weighted Least Square Method, International Joint Conference on Artificial Intelligence (IJCAI), 2016, 1599-1605. [[link](https://www.ijcai.org/Abstract/16/229), [fulltext](https://www.ijcai.org/Proceedings/16/Papers/229.pdf)]
-    - Wenbing Huang, Fuchun Sun, Lele Cao, etc., Analyzing Linear Dynamical Systems: From Modeling to Coding and Learning, arXiv preprint arXiv:1608.01059, 2017. [[fulltext](https://arxiv.org/abs/1608.01059)]
+    - Wenbing Huang, Fuchun Sun, Lele Cao, etc., Sparse coding and dictionary learning with linear dynamical systems, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, 3938-3947. [[link](https://ieeexplore.ieee.org/abstract/document/7780796/), [fulltext](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Sparse_Coding_and_CVPR_2016_paper.pdf), [video](https://www.youtube.com/watch?v=0PA1VYyehoQ)]
+    - Wenbing Huang, Lele Cao, etc., Learning stable linear dynamical systems with the weighted least square method, International Joint Conference on Artificial Intelligence (IJCAI), 2016, 1599-1605. [[link](https://www.ijcai.org/Abstract/16/229), [fulltext](https://www.ijcai.org/Proceedings/16/Papers/229.pdf)]
+    - Wenbing Huang, Fuchun Sun, Lele Cao, etc., Analyzing linear dynamical systems: from modeling to coding and learning, arXiv preprint arXiv:1608.01059, 2017. [[fulltext](https://arxiv.org/abs/1608.01059)]
+    - Haolin Yang, Deli Zhao, Lele Cao, etc., A precise and robust clustering approach using homophilic degrees of graph kernel, The 20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2016, 257-270. [[link](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_21)]
 
 - layout: left
   name: University of Melbourne
@@ -28,9 +29,10 @@
   description: | # this will include new lines to allow paragraphs
     ■ Full-time 12-month research in the Department of Computing and Information Systems of [UniMelb](https://en.wikipedia.org/wiki/University_of_Melbourne), with a focus of tactile recognition using machine learning methods.
     
-    - Lele Cao et. al., Efficient Spatio-Temporal Tactile Object Recognition with Randomized Tiling Convolutional Networks in a Hierarchical Fusion Strategy, AAAI Conference on Artificial Intelligence (AAAI-16), 2016, 3337-3345. [[link](https://dl.acm.org/doi/10.5555/3016100.3016371), [fulltext](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12008/12099)]
-    - Haolin Yang, Deli Zhao, Lele Cao, etc., A Precise and Robust Clustering Approach using Homophilic Degrees of Graph Kernel, The 20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2016, 257-270. [[link](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_21)]
-    - Lele Cao et. al., Fix-Budget and Recurrent Data Mining for Online Haptic Perception, International Conference on Neural Information Processing (ICONIP), 2017, 581-591. [[link](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_59)]
+    - Lele Cao et. al., Efficient spatio-temporal tactile object recognition with randomized tiling convolutional networks in a hierarchical fusion strategy, AAAI Conference on Artificial Intelligence (AAAI-16), 2016, 3337-3345. [[link](https://dl.acm.org/doi/10.5555/3016100.3016371), [fulltext](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12008/12099)]
+    - Lele Cao et. al., Fix-budget and recurrent data mining for online haptic perception, International Conference on Neural Information Processing (ICONIP), 2017, 581-591. [[link](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_59)]
+    - Haolin Yang, Fuchun Sun, Lele Cao, etc., Tactile sequence based object categorization: a bag of features modeled by linear dynamic system with symmetric transition matrix, International Joint Conference on Neural Networks (IJCNN), 2016, 5218-5225. [[link](https://ieeexplore.ieee.org/document/7727889/)]
+    - Haolin Yang, Xiaohui Hu, Lele Cao, Fuchun Sun, A new slip-detection method based on pairwise high frequency components of capacitive sensor signals, International Conference on Information Science and Technology (ICIST), 2015. [[link](https://ieeexplore.ieee.org/document/7288940)]
 
 
 - layout: left
@@ -46,9 +48,9 @@
 
     ■ Grand Champion of [Charon competition 2007](http://excitera.nu/charon/index.php).
 
-    - Lele Cao, From CRYSTAL to JUPITER : Advancing an usability improvement of Polystar visualization product for telecommunication networks (Trita-ICT-EX ; 2010:13), Master's Thesis, School of Information and Technology (ICT), Royal Institute of Technology, 2010. [[link](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/170j44a/46KTH_ALMA_DS21112855870002456)]
-    - Lele Cao et. al., The Quantitative and Qualitative Evaluation of a Multi-Agent Microsimulation Model for Subway Carriage Design, International Journal of Microsimulation (IJM), 2015, 8(3): 6-40. [[link](http://www.scopus.com/inward/record.url?eid=2-s2.0-85006070109&partnerID=MN8TOARS), [fulltext](http://microsimulation.org/IJM/V8_3/IJM_8_3_2015_Cao.pdf)]
-    - Janis Meissner, Lele Cao, et al., Music Waggon: Travel in Rhythm, Proceedings of Student Interaction Design Research (SIDeR) Conference, 2006. [[fulltext](https://pdfs.semanticscholar.org/2daf/bc08d4226f01e12b9bd123d73f6f5be06c93.pdf), [slides](https://slideplayer.com/slide/4949998/)]
+    - Lele Cao, From CRYSTAL to JUPITER : advancing an usability improvement of Polystar visualization product for telecommunication networks (Trita-ICT-EX ; 2010:13), Master's Thesis, School of Information and Technology (ICT), Royal Institute of Technology, 2010. [[link](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/170j44a/46KTH_ALMA_DS21112855870002456)]
+    - Lele Cao et. al., The quantitative and qualitative evaluation of a multi-agent microsimulation model for subway carriage sesign, International Journal of Microsimulation (IJM), 2015, 8(3): 6-40. [[link](http://www.scopus.com/inward/record.url?eid=2-s2.0-85006070109&partnerID=MN8TOARS), [fulltext](http://microsimulation.org/IJM/V8_3/IJM_8_3_2015_Cao.pdf)]
+    - Janis Meissner, Lele Cao, et al., Music waggon: travel in rhythm, Proceedings of Student Interaction Design Research (SIDeR) Conference, 2006. [[fulltext](https://pdfs.semanticscholar.org/2daf/bc08d4226f01e12b9bd123d73f6f5be06c93.pdf), [slides](https://slideplayer.com/slide/4949998/)]
 
 
 - layout: left
@@ -62,5 +64,5 @@
     
     ■ Graduate with honor: the graduation thesis is titled "A General Fast Algorithm for Planar Graph Isomorphism and Experiments".
 
-    - Lele Cao et al., Application and Implementation of Fuzzy Web Categorization Algorithm, Computer and Information Technology, 2003, 4(1), 12-14. [[fulltext](https://github.com/caolele/caolele.github.io/blob/master/pub/fwca2003.pdf)]
+    - Lele Cao et al., Application and implementation of fuzzy web categorization algorithm, Computer and Information Technology, 2003, 4(1), 12-14. [[fulltext](https://github.com/caolele/caolele.github.io/blob/master/pub/fwca2003.pdf)]
 
