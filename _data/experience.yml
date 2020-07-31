@@ -36,7 +36,7 @@
   description: | # this will include new lines to allow paragraphs
     ■ Fundamental research & application of computer-vision and machine learning algorithms in the data centre of the [GIS service](https://gaode.com/).
     
-    ■ Projects include recognition of traffic incidents and traffic signs/facilities, road/building extraction from satellite images, traffic visualization, etc.
+    ■ Work on recognition of traffic incidents and traffic signs/facilities, road/building extraction from satellite images, traffic visualization, etc.
 
     - Cao, Lele, et. al., "Fusing classification and segmentation DCNNs for road feature mining on aerial images." Information Fusion and Intelligent Geographic Information Systems. Springer, 2020, 97-109. [[link](https://link.springer.com/chapter/10.1007/978-3-030-31608-2_7), [video](https://www.youtube.com/watch?v=onPTo_lyG4c)]
     - Lele Cao, Fine-grained road mining from satellite images with bilateral xception and DeepLab, International Joint Conference on Neural Networks (**IJCNN**), 2019, 1-8. [[link](https://ieeexplore.ieee.org/document/8852009)]
