@@ -10,7 +10,6 @@
     ■ Doctoral dissertation: "The Efficient Spatio-Temporal Representation and Fusion of Tactile Sequences".
 
     - Lele Cao et. al., Real-time recurrent tactile recognition: momentum batch-sequential echo state networks, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017, 50(4): 1350-1361. [[link](https://ieeexplore.ieee.org/document/8031062)]
-    - Lele Cao et. al., End-to-end ConvNet for tactile recognition using residual orthogonal tiling and pyramid convolution Ensemble, Cognitive Computation, 2018, 10(5): 718-736. [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
     - Lele Cao et. al., Advancing the incremental fusion of robotic sensory features using online multi-kernel extreme learning, Frontiers of Computer Science. 2017, 11(2): 276-289. [[link](https://link.springer.com/article/10.1007/s11704-016-5171-9)]
     - Lele Cao et. al., Building feature space of extreme learning machine with sparse denoising stacked-autoencoder, Neurocomputing. 2015, 174: 60-71. [[link](https://www.sciencedirect.com/science/article/pii/S0925231215011674)]
     - Lele Cao et. al., Optimization-based extreme learning machine with multi-kernel learning approach for classification, International Conference on Pattern Recognition (ICPR), 2014, 3564-3569. [[link](https://ieeexplore.ieee.org/document/6977325/)]
@@ -19,6 +18,9 @@
     - Wenbing Huang, Lele Cao, etc., Learning stable linear dynamical systems with the weighted least square method, International Joint Conference on Artificial Intelligence (IJCAI), 2016, 1599-1605. [[link](https://www.ijcai.org/Abstract/16/229), [fulltext](https://www.ijcai.org/Proceedings/16/Papers/229.pdf)]
     - Wenbing Huang, Fuchun Sun, Lele Cao, etc., Analyzing linear dynamical systems: from modeling to coding and learning, arXiv preprint arXiv:1608.01059, 2017. [[fulltext](https://arxiv.org/abs/1608.01059)]
     - Haolin Yang, Deli Zhao, Lele Cao, etc., A precise and robust clustering approach using homophilic degrees of graph kernel, The 20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2016, 257-270. [[link](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_21)]
+    - Haolin Yang, Fuchun Sun, Lele Cao, etc., Tactile sequence based object categorization: a bag of features modeled by linear dynamic system with symmetric transition matrix, International Joint Conference on Neural Networks (IJCNN), 2016, 5218-5225. [[link](https://ieeexplore.ieee.org/document/7727889/)]
+    - Haolin Yang, Xiaohui Hu, Lele Cao, Fuchun Sun, A new slip-detection method based on pairwise high frequency components of capacitive sensor signals, International Conference on Information Science and Technology (ICIST), 2015. [[link](https://ieeexplore.ieee.org/document/7288940), [fulltext](https://www.researchgate.net/profile/Lele_Cao/publication/308847708_A_new_slip-detection_method_based_on_pairwise_high_frequency_components_of_capacitive_sensor_signals/links/5b20e1ff458515270fc610f5/A-new-slip-detection-method-based-on-pairwise-high-frequency-components-of-capacitive-sensor-signals.pdf)]
+
 
 - layout: left
   name: University of Melbourne
@@ -29,10 +31,9 @@
   description: | # this will include new lines to allow paragraphs
     ■ Full-time 12-month research in the Department of Computing and Information Systems of [UniMelb](https://en.wikipedia.org/wiki/University_of_Melbourne), with a focus of tactile recognition using machine learning methods.
     
+    - Lele Cao et. al., End-to-end ConvNet for tactile recognition using residual orthogonal tiling and pyramid convolution Ensemble, Cognitive Computation, 2018, 10(5): 718-736. [[link](https://link.springer.com/article/10.1007/s12559-018-9568-7)]
     - Lele Cao et. al., Efficient spatio-temporal tactile object recognition with randomized tiling convolutional networks in a hierarchical fusion strategy, AAAI Conference on Artificial Intelligence (AAAI-16), 2016, 3337-3345. [[link](https://dl.acm.org/doi/10.5555/3016100.3016371), [fulltext](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12008/12099)]
     - Lele Cao et. al., Fix-budget and recurrent data mining for online haptic perception, International Conference on Neural Information Processing (ICONIP), 2017, 581-591. [[link](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_59)]
-    - Haolin Yang, Fuchun Sun, Lele Cao, etc., Tactile sequence based object categorization: a bag of features modeled by linear dynamic system with symmetric transition matrix, International Joint Conference on Neural Networks (IJCNN), 2016, 5218-5225. [[link](https://ieeexplore.ieee.org/document/7727889/)]
-    - Haolin Yang, Xiaohui Hu, Lele Cao, Fuchun Sun, A new slip-detection method based on pairwise high frequency components of capacitive sensor signals, International Conference on Information Science and Technology (ICIST), 2015. [[link](https://ieeexplore.ieee.org/document/7288940)]
 
 
 - layout: left
