@@ -38,14 +38,28 @@
   dates: 2006 - 2010
   qualification: Master of Science (M.Sc.)
   quote: >
-    KTH Royal Institute of Technology, abbreviated KTH, is a public research university in Stockholm, Sweden. KTH conducts research and education within engineering and technology, and is Sweden's largest technical university.
+    [Royal Institute of Technology](https://en.wikipedia.org/wiki/KTH_Royal_Institute_of_Technology), abbreviated KTH, is a public research university in Stockholm, Sweden. KTH conducts research and education within engineering and technology, and is Sweden's largest technical university.
   description: | # this will include new lines to allow paragraphs
     ■ Full-time 1.5-year International Master Program in the Department of Computer and Systems Sciences, which is a joint department of Royal Institute of Technology and Stockholm University.
     
     ■ 2.5-year thesis/project work carried out in Polystar (n.k.a. Elisa) in building a telecom big data visualization and analytics platform.
 
-    ■ Grand Champion of [Charon competition 2007](http://excitera.nu/charon/index.php)
+    ■ Grand Champion of [Charon competition 2007](http://excitera.nu/charon/index.php).
 
     - Lele Cao, From CRYSTAL to JUPITER : Advancing an usability improvement of Polystar visualization product for telecommunication networks (Trita-ICT-EX ; 2010:13), Master's Thesis, School of Information and Technology (ICT), Royal Institute of Technology, 2010. [[link](https://kth-primo.hosted.exlibrisgroup.com/permalink/f/170j44a/46KTH_ALMA_DS21112855870002456)]
     - Lele Cao et. al., The Quantitative and Qualitative Evaluation of a Multi-Agent Microsimulation Model for Subway Carriage Design, International Journal of Microsimulation (IJM), 2015, 8(3): 6-40. [[link](http://www.scopus.com/inward/record.url?eid=2-s2.0-85006070109&partnerID=MN8TOARS), [fulltext](http://microsimulation.org/IJM/V8_3/IJM_8_3_2015_Cao.pdf)]
     - Janis Meissner, Lele Cao, et al., Music Waggon: Travel in Rhythm, Proceedings of Student Interaction Design Research (SIDeR) Conference, 2006. [[fulltext](https://pdfs.semanticscholar.org/2daf/bc08d4226f01e12b9bd123d73f6f5be06c93.pdf), [slides](https://slideplayer.com/slide/4949998/)]
+
+
+- layout: left
+  name: Southeast University
+  dates: 2001 - 2005
+  qualification: Bachelor of Engineering (B.Eng.)
+  quote: >
+    [Southeast University](https://en.wikipedia.org/wiki/Southeast_University) is a public research that was one of the oldest universities and the first coeducational university in China. It is a member of both Project 985 and Project 211, and also a Chinese Ministry of Education Class A Double First Class University.
+  description: | # this will include new lines to allow paragraphs
+    ■ Full-time 4-year undergraduate Program in the College of Software Engineering (n.k.a. School of Computer Science and Engineering) of Southeast University, China.
+    ■ Graduate with honor: the graduation thesis is titled "A General Fast Algorithm for Planar Graph Isomorphism and Experiments".
+
+    - Lele Cao et al., Application and Implementation of Fuzzy Web Categorization Algorithm, Computer and Information Technology, 2003, 4(1), 12-14. [[fulltext](https://github.com/caolele/caolele.github.io/blob/master/pub/fwca2003.pdf)]
+
