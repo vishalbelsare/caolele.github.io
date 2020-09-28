@@ -24,9 +24,12 @@ linkedin_username: caolele
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lele and ...
-
-  I am most skilled in: <mark>ML</mark> and <mark>Eating Pizza</mark>
+I speak native Chinese (Mandarin) and fluent English. Please do not ask my Swedish skill, since that hopefully will grow with my kids. 
+I have a diversified academic journey that covers Machine Learning, Software Engineering, Interactive Design, and even Clinical Medicine.
+I like applied algorithmic researches in many different industrial domains such as finance, gaming, navigation, and robotics. 
+Python is my best friend, yet I got a few more, like Java, C++, and Javascript.
+As a data practitioner, it is a non-stop process to get my head and hands around many tech-stacks like Tensorflow, Vega, Kafka, Hadoop, Beam, BigQuery ...
+Occasionally supervising Master thesis and writing papers help me think and stay informed.
 
 # Projects Section
 projects_title: News
@@ -43,7 +46,7 @@ more_title: More about me ...
 more_content: | # this will include new lines to allow paragraphs
   ■ Patent: [CN106295703A](https://patents.google.com/patent/CN106295703A/en) (2017.1)
 
-  ■ Program Chair: [ECML-PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)
+  ■ Program Committee: [ECML-PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 
   ■ Master Thesis Supervision: 
   [Max Fischer](https://www.diva-portal.org/smash/get/diva2:1334684/FULLTEXT01.pdf) (Linköping University, 2019),
