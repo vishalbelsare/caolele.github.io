@@ -24,7 +24,7 @@ linkedin_username: caolele
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-I speak native Chinese (Mandarin) and fluent English. Please do not ask my Swedish skill, since that hopefully will grow with my kids. I have a diversified academic journey that covers Machine Learning, Software Engineering, Interactive Design, and even Clinical Medicine.I like applied algorithmic researches in many different industrial domains such as finance, gaming, navigation, and robotics. Python is my best friend, yet I got a few more, like Java, C++, and Javascript. As a data practitioner, it is a non-stop process to get my head and hands around many tech-stacks like Tensorflow, Vega, Kafka, Hadoop, Beam, BigQuery ... Occasionally supervising Master thesis and writing papers help me think and stay informed.
+  I speak native Chinese (Mandarin) and fluent English. Please do not ask my Swedish skill, since that hopefully will grow with my kids. I have a diversified academic journey that covers Machine Learning, Software Engineering, Interactive Design, and even Clinical Medicine.I like applied algorithmic researches in many different industrial domains such as finance, gaming, navigation, and robotics. Python is my best friend, yet I got a few more, like Java, C++, and Javascript. As a data practitioner, it is a non-stop process to get my head and hands around many tech-stacks like Tensorflow, Vega, Kafka, Hadoop, Beam, BigQuery ... Occasionally supervising Master thesis and writing papers help me think and stay informed.
 
 # Projects Section
 projects_title: News
