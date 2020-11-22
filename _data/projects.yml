@@ -1,6 +1,6 @@
 - layout: top-middle
-  name: Long paper accepted by RecSys 2020 Workshop!
-  link: https://orsum.inesctec.pt/orsum2020/assets/files/paper4.pdf
+  name: Long paper published in RecSys 2020 Workshop!
+  link: https://orsum.inesctec.pt/orsum2020/accepted-papers.php
   # github: sproogen/resume-theme
   quote: >
     Lele Cao, Sahar Asadi, Matteo Biasielli, and Michael Sjöberg. 2020. Debiasing Few-Shot Recommendation in Mobile Games. In 3rd Workshop on Online Recommender Systems and User Modeling (ORSUM 2020), in conjunction with the 14th ACM Conference on Recommender Systems (<mark>RecSys 2020</mark>), September 25th, 2020, Virtual Event, Brazil.
