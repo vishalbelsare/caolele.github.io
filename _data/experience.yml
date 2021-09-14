@@ -8,6 +8,8 @@
   description: | # this will include new lines to allow paragraphs
     ■ Work in [Motherbrain](https://www.eqtgroup.com/digital/motherbrain) team on data driven investment tracking and recommendation.
 
+    - Lele Cao et. al., PAUSE: Positive and Annealed Unlabeled Sentence Embedding. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 7th-11th November 2021, Online and Punta Cana. [[fulltext](https://arxiv.org/abs/2109.03155), [code](https://github.com/EQTPartners/pause)]
+
 
 - layout: left
   company: King
