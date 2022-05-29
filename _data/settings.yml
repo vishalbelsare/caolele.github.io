@@ -77,13 +77,17 @@ blurb-btn-name: know more
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Sylvia"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Ph.D. in Accounting and Finance\nResearch Assistant in Stockholm University"
     
   - title : "Julias Carlie"
     image : "assets/images/team/member-2.png"
     designation : "Web Developer"
+    
+  - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
 
 
 #-------------------------------
