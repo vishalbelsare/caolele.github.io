@@ -233,9 +233,3 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "illustration"
-
-#-------------------------------
-# Contact Section
-
-contact-title: Contact Info
-contact-email: caolele@email.com
