@@ -154,7 +154,7 @@ services:
 # Publication Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/emnlp2021.png"
-    url: "https://aclanthology.org/2021.emnlp-main.791"
+    url: "https://underline.io/lecture/37659-pause-positive-and-annealed-unlabeled-sentence-embedding"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
