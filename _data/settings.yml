@@ -154,7 +154,7 @@ services:
 # Publication Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://aclanthology.org/2021.emnlp-main.791"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
@@ -186,7 +186,7 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://storage.googleapis.com/motherbrain-pause/DIS2022-EQT-Motherbrain.mp4"
     portfolio-type:
      - type: "design"
      - type: "illustration"
