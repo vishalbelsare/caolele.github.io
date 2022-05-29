@@ -162,8 +162,8 @@ portfolio-home-items:
   - image : "assets/images/portfolio/aaai2016.png"
     url: "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12008/12099"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/recsys2020.png"
+    url: "https://www.semanticscholar.org/paper/Debiasing-Few-Shot-Recommendation-in-Mobile-Games-Cao-Asadi/359f834bd4752d80aa4916f09c0c6dfe10f07a62"
     
 
 
@@ -200,21 +200,10 @@ portfolio-items:
       - type: "ml"
       - type: "cv"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/recsys2020.png"
+    url: "https://www.semanticscholar.org/paper/Debiasing-Few-Shot-Recommendation-in-Mobile-Games-Cao-Asadi/359f834bd4752d80aa4916f09c0c6dfe10f07a62"
     portfolio-type:
-      - type: "cv"
-      
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "cv"
-      - type: "robotics"
-      
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "cv"
+      - type: "ml"
       
   - image : "assets/images/portfolio/ecml2020.png"
     url: "https://papertalk.org/papertalks/27881"
