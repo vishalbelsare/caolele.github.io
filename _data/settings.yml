@@ -79,15 +79,15 @@ blurb-btn-name: know more
 team:
   - title : "Sylvia"
     image : "assets/images/team/member-1.png"
-    designation : "Ph.D. in Accounting and Finance<br>Research Assistant in Stockholm University"
+    designation : "Ph.D. in Accounting and Finance<br>Research Assistant in Stockholm University<br>Language Instructor in Berlitz"
     
-  - title : "Julias Carlie"
+  - title : "River"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "Student of Katarina Norra"
     
-  - title : "John Doe"
+  - title : "Ricky"
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "Preschooler of Sälen"
 
 
 #-------------------------------
