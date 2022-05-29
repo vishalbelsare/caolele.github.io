@@ -155,6 +155,9 @@ services:
 portfolio-home-items:
   - image : "assets/images/portfolio/emnlp2021.png"
     url: "https://underline.io/lecture/37659-pause-positive-and-annealed-unlabeled-sentence-embedding"
+
+  - image : "assets/images/portfolio/ecml2020.png"
+    url: "https://papertalk.org/papertalks/27881"
     
   - image : "assets/images/portfolio/aaai2016.png"
     url: "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12008/12099"
@@ -162,8 +165,7 @@ portfolio-home-items:
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     
-  - image : "assets/images/portfolio/ecml2020.png"
-    url: "https://papertalk.org/papertalks/27881"
+
 
 
 # Publication Page
