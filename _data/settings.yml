@@ -153,7 +153,7 @@ services:
 
 # Publication Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/emnlp2021.png"
     url: "https://aclanthology.org/2021.emnlp-main.791"
     
   - image : "assets/images/portfolio/item-2.png"
@@ -172,64 +172,46 @@ portfolio-home-items:
 # Publication Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "NLP",
+    type : "nlp"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "COMPUTER VISION",
+    type : "cv"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "ROBOTICS",
+    type : "robotics"
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/emnlp2021.png"
     url: "https://storage.googleapis.com/motherbrain-pause/DIS2022-EQT-Motherbrain.mp4"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "nlp"
       
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "nlp"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "cv"
       
   - image : "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "cv"
+      - type: "robotics"
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "cv"
       
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+      - type: "robotics"
