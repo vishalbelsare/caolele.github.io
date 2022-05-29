@@ -165,8 +165,8 @@ portfolio-home-items:
   - image : "assets/images/portfolio/item-4.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image : "assets/images/portfolio/ecml2020.png"
+    url: "https://papertalk.org/papertalks/27881"
 
 
 # Publication Page
@@ -211,7 +211,7 @@ portfolio-items:
     portfolio-type:
       - type: "cv"
       
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image : "assets/images/portfolio/ecml2020.png"
+    url: "https://papertalk.org/papertalks/27881"
     portfolio-type:
       - type: "robotics"
