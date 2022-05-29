@@ -156,13 +156,10 @@ portfolio-home-items:
   - image : "assets/images/portfolio/emnlp2021.png"
     url: "https://underline.io/lecture/37659-pause-positive-and-annealed-unlabeled-sentence-embedding"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/aaai2016.png"
+    url: "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12008/12099"
     
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-4.png"
     url: "#"
     
   - image : "assets/images/portfolio/ecml2020.png"
@@ -183,6 +180,10 @@ portfolio-label:
     title : "ROBOTICS",
     type : "robotics"
   }
+- {
+    title : "MACHINE LEARNING",
+    type : "ml"
+  }
 
 portfolio-items:
   - image : "assets/images/portfolio/emnlp2021.png"
@@ -190,10 +191,12 @@ portfolio-items:
     portfolio-type:
      - type: "nlp"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/aaai2016.png"
+    url: "https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12008/12099"
     portfolio-type:
-      - type: "nlp"
+      - type: "robotics"
+      - type: "ml"
+      - type: "cv"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
@@ -214,4 +217,4 @@ portfolio-items:
   - image : "assets/images/portfolio/ecml2020.png"
     url: "https://papertalk.org/papertalks/27881"
     portfolio-type:
-      - type: "robotics"
+      - type: "ml"
