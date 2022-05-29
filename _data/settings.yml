@@ -142,16 +142,16 @@ services:
 - {
     name: Industrial Supervisor,
     icon: ti-panel,
-    description: 'Supervised over 8 Master Students from KTH, ETH, Uppsala University, Linköping University, USTC, and SSE (Stockholm School of Economics).',
+    description: 'Supervised over 8 Master Students from KTH, ETH, Uppsala Uni., Linköping Uni., USTC, and SSE (Stockholm School of Economics).',
     active: true # Add true to select section
   }
 
 
 
 #-------------------------------
-# Portfolio (Section and Page)
+# Publication (Section and Page)
 
-# Portfolio Home Section
+# Publication Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
@@ -169,7 +169,7 @@ portfolio-home-items:
     url: "#"
 
 
-# Portfolio Page
+# Publication Page
 portfolio-label:
 - {
     title : "UI/UX Design",
