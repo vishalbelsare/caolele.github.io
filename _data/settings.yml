@@ -97,8 +97,8 @@ skills-title: Skills
 skills:
 - {name: AI Research, color: '#fdb157', value: '90%'}
 - {name: AI Solution, color: '#bdecf6', value: '80%'}
-- {name: AI Productization, color: '#9473e6', value: '80%'}
-- {name: Thesis Mentorship, color: '#ffbcaa', value: '70%'}
+- {name: AI Production, color: '#9473e6', value: '80%'}
+- {name: Thesis Mentor, color: '#ffbcaa', value: '60%'}
 
 
 #-------------------------------
@@ -106,9 +106,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Senior Algorithm Engineer, icon: 'icon-1.png', date: 'Aug 2016 - Apr 2017', organization: 'Alibaba'}
+- {name: Senior Machine Learning Engineer, icon: 'icon-3.png', date: 'Apr 2017 - May 2020', organization: 'King'}
+- {name: Staff Data Scientist, icon: 'icon-2.png', date: 'May 2020 - Present', organization: 'EQT'}
 
 
 #-------------------------------
