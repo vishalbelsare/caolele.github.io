@@ -116,7 +116,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Ph.D. Artificial Intelligence, date: 'Aug 2012 - Jul 2016', organization: 'Tsinghua University', icon: 'alibaba.png'}
+- {name: Ph.D. Artificial Intelligence, date: 'Aug 2012 - Jul 2016', organization: 'Tsinghua University'}
 - {name: Visiting Ph.D. Machine Learning, date: 'Mar 2015 - Mar 2016', organization: 'The University of Melbourne'}
 - {name: M.Sc. Interactive Systems Engineering, date: 'Aug 2006 - Mar 2010', organization: 'KTH Royal Institute of Technology'}
 - {name: B.Eng. Software Engineering, date: 'Sep 2001 - Jun 2005', organization: 'Southeast University'}
@@ -128,21 +128,21 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Academic Reviewer,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'IEEE Access, Cognitive Computation, ICRA 2018, AAAI 2021, AAAI 2022, ECCV 2022, and IROS2022.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Committee Member,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'CAAI (Chinese Association for AI) member and program committee member of ECML-PKDD 2020.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Industrial Supervisor,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Supervised over 8 Master Students from KTH, ETH, Uppsala University, Linköping University, USTC, and SSE (Stockholm School of Economics).',
     active: # Add true to select section
   }
 
