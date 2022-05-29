@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: AI Researcher and Practitioner
+  hero-title: AI Researcher & Practitioner
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: AI Research, color: '#fdb157', value: '90%'}
+- {name: AI Solution, color: '#bdecf6', value: '80%'}
+- {name: AI Productization, color: '#9473e6', value: '80%'}
+- {name: Thesis Mentorship, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -293,4 +293,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: caolele@email.com
