@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: AI Researcher & Practitioner
+  hero-title: AI Researcher and Practitioner
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -106,8 +106,8 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Senior Algorithm Engineer, icon: 'icon-1.png', date: 'Aug 2016 - Apr 2017', organization: 'Alibaba'}
-- {name: Senior Machine Learning Engineer, icon: 'icon-3.png', date: 'Apr 2017 - May 2020', organization: 'King'}
+- {name: Senior Algorithm Engineer, icon: 'icon-3.png', date: 'Aug 2016 - Apr 2017', organization: 'Alibaba'}
+- {name: Senior Machine Learning Engineer, icon: 'icon-1.png', date: 'Apr 2017 - May 2020', organization: 'King'}
 - {name: Staff Data Scientist, icon: 'icon-2.png', date: 'May 2020 - Present', organization: 'EQT'}
 
 
