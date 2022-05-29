@@ -1,8 +1,0 @@
-- layout: top-middle
-  name: Long paper accepted by EMNLP 2021 main conference!
-  link: https://arxiv.org/abs/2109.03155
-  # github: sproogen/resume-theme
-  quote: >
-    Lele Cao, Emil Larsson, Vilhelm von Ehrenheim, Dhiana Deva Cavalcanti Rocha, Anna Martin, Sonja Horn. 2021. PAUSE: Positive and Annealed Unlabeled Sentence Embedding.  In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021).
-  description: | # this will include new lines to allow paragraphs
-    Sentence embedding refers to a set of effective and versatile techniques for converting raw text into numerical vector representations that can be used in a wide range of natural language processing (NLP) applications. The majority of these techniques are either supervised or unsupervised. Compared to the unsupervised methods, the supervised ones make less assumptions about optimization objectives and usually achieve better results. However, the training requires a large amount of labeled sentence pairs, which is not available in many industrial scenarios. To that end, we propose a generic and end-to-end approach -- PAUSE (Positive and Annealed Unlabeled Sentence Embedding), capable of learning high-quality sentence embeddings from a partially labeled dataset. We experimentally show that PAUSE achieves, and sometimes surpasses, state-of-the-art results using only a small fraction of labeled sentence pairs on various benchmark tasks. When applied to a real industrial use case where labeled samples are scarce, PAUSE encourages us to extend our dataset without the burden of extensive manual annotation work. 

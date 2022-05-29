@@ -1,73 +1,34 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
-
-# Personal info
-name: Lele Cao
-title: Ph.D. of Engineering specialized in Machine Learning | Senior Data Scientist at EQT 
-email: caolele@gmail.com
-website: caolele.github.io
-
-# Social links
-twitter_username: orilong
-github_username:  caolele
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
-linkedin_username: caolele
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-
-# About Section
-# about_title: About Me
-about_profile_image: images/profile.png
-about_content: | # this will include new lines to allow paragraphs
-  I speak native Chinese (Mandarin) and fluent English. 
-  Please do not ask my Swedish skill, since that hopefully will grow with my kids. 
-  I experienced a diversified academic/educational journey that covers 
-  Machine Learning, Software Engineering, Interactive Design, and even Clinical Medicine. 
-  I like applied algorithmic researches in many different industrial domains such as finance, gaming, navigation, and robotics. 
-  Python is my best friend, yet I got a few more, like Java, C++, and Javascript. As a data practitioner, it is a non-stop process to get my head and hands around many tech-stacks like Tensorflow, Vega, Kafka, Hadoop, Beam, BigQuery ... Occasionally supervising Master thesis and writing papers help me think and stay informed.
-
-# Projects Section
-projects_title: News
-
-# Experience Section
-experience_title: Experience
-
-# Education Section
-educaton_title: Education
-
-
-# More Section
-more_title: More about me ...
-more_content: | # this will include new lines to allow paragraphs
-  ■ Patent: [CN106295703A](https://patents.google.com/patent/CN106295703A/en) (2017.1)
-  [CN109583282B](https://zhuanli.tianyancha.com/1ded5e83a01152967a6769c2152594c0) (2021.4)
-
-  ■ Program Committee: [ECML-PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/), 
-  [AAAI 2021](https://aaai.org/Conferences/AAAI-21/),
-  [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
-
-  ■ Master student co-/supervision: 
-  [Wenfei Zhu](http://uu.diva-portal.org/smash/get/diva2:1510266/FULLTEXT01.pdf) (Uppsala University),
-  [Francesco Vito Lorenzo](https://www.diva-portal.org/smash/get/diva2:1460707/FULLTEXT01.pdf) (KTH, 2020),
-  [Mathias Törnqvist](http://kth.diva-portal.org/smash/get/diva2:1468273/FULLTEXT01.pdf) (KTH, 2020),
-  [Max Fischer](https://www.diva-portal.org/smash/get/diva2:1334684/FULLTEXT01.pdf) (Linköping University, 2019),
-  [Alice Karnsund](http://kth.diva-portal.org/smash/get/diva2:1368129/FULLTEXT01.pdf) (KTH, 2019),
-  [Bohua Li](http://kth.diva-portal.org/smash/get/diva2:274188/FULLTEXT01) (KTH, 2009)
-
-# Footer
-footer_show_references: true
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: sproogen/resume-theme
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
 
 sass:
-  sass_dir: _sass
+  sass_dir: assets/scss
   style: compressed
 
-plugins:
- - jekyll-seo-tag
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.text
+  - README.md
+  - SECURITY.md
