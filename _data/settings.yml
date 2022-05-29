@@ -129,19 +129,19 @@ services-title: Services
 services:
 - {
     name: Academic Reviewer,
-    icon: ti-palette,
+    icon: ti-write,
     description: 'IEEE Access, Cognitive Computation, ICRA 2018, AAAI 2021, AAAI 2022, ECCV 2022, and IROS2022.',
     active: true # Add true to select section
   }
 - {
     name: Committee Member,
-    icon: ti-vector,
+    icon: ti-user,
     description: 'CAAI (Chinese Association for AI) member and program committee member of ECML-PKDD 2020.',
     active: # Add true to select section
   }
 - {
     name: Industrial Supervisor,
-    icon: ti-panel,
+    icon: ti-direction-alt,
     description: 'Supervised over 8 Master Students from KTH, ETH, Uppsala Uni., Linköping Uni., USTC, and SSE (Stockholm School of Economics).',
     active: true # Add true to select section
   }
