@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Ph.D. Artificial Intelligence, date: 'Aug 2012 - Jul 2016', organization: 'Tsinghua University', icon: 'alibaba.png'}
+- {name: Visiting Ph.D. Machine Learning, date: 'Mar 2015 - Mar 2016', organization: 'The University of Melbourne'}
+- {name: M.Sc. Interactive Systems Engineering, date: 'Aug 2006 - Mar 2010', organization: 'KTH Royal Institute of Technology'}
+- {name: B.Eng. Software Engineering, date: 'Sep 2001 - Jun 2005', organization: 'Southeast University'}
 
 
 #-------------------------------
