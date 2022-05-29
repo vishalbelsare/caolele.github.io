@@ -1,18 +1,13 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Lele Cao
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Lele Cao is a Staff Data Scientist and Data Science Lead in EQT Group. He holds a Ph.D. specialized in Robotics and Artificial Intelligence from Tsinghua University. During his Ph.D. research, he was also a visiting Ph.D. Scholar in The University of Melbourne. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+He has published over 30 academic papers and patents on Applied Machine Learning, including in many renowned conferences and journals, such as AAAI, CVPR, IJCAI, EMNLP, ECML, RecSys, and Neurocomputing. Lele has over 12 years of industrial experience from EQT, Activision Blizzard (King), Alibaba, Elisa (Polystar), and Ericsson. As a result, many of his published works originate from addressing the real industrial problems in the domains of Investment, Gaming, Geographical Information, and Robotics. Lele has supervised more than 8 master thesis works, and served as reviewer (or program committee member) in IEEE Access, Cognitive Computation, ICRA 2018, ECML-PKDD 2020, AAAI 2021&2022, ECCV2022 and IROS2022.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Lele is nominated Hyperight Nordic 100 In Data, Analytics and AI 2022: https://hyperight.com/nordic100
