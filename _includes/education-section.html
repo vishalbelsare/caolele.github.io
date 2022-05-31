@@ -10,7 +10,9 @@
       <div class="col-lg-6 col-md-6 mb-80">
         <div class="d-flex">
           <div class="mr-lg-5 mr-3">
-            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+            <!-- <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i> -->
+            <img src="{{ site.baseurl }}/assets/images/experience/{{ experience.icon }}"
+              alt="{{ site.data.education.organization }} icon">
           </div>
           <div>
             <p class="text-dark mb-1">{{ education.date }}</p>
@@ -23,7 +25,8 @@
     </div>
   </div>
   <!-- bg image -->
-  <img class="img-fluid edu-bg-image w-100" src="{{ site.baseurl }}/assets/images/backgrounds/education-bg.png" alt="bg-image">
+  <img class="img-fluid edu-bg-image w-100" src="{{ site.baseurl }}/assets/images/backgrounds/education-bg.png"
+    alt="bg-image">
 </section>
 <!-- /education -->
 {% endif %}
