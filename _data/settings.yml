@@ -186,6 +186,10 @@ portfolio-label:
     title : "MACHINE LEARNING",
     type : "ml"
   }
+- {
+    title : "REINFORCEMENT LEARNING",
+    type : "rl"
+  }
 
 portfolio-items:
   - image : "assets/images/portfolio/emnlp2021.png"
@@ -221,3 +225,9 @@ portfolio-items:
     portfolio-type:
       - type: "ml"
       - type: "robotics"
+
+  - image : "assets/images/portfolio/cog2020.png"
+    url: "https://ieeexplore.ieee.org/document/9231638"
+    portfolio-type:
+      - type: "ml"
+      - type: "rl"
