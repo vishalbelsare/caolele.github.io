@@ -7,9 +7,9 @@ author: Lele Cao, Sonja Horn
 tags:   EQT
 ---
 
-**[Motherbrain](https://eqtgroup.com/motherbrain) is a digital platform that leverages Big Data and Machine Learning to give EQT a unique edge. Motherbrain started in 2016 as a platform for EQT Ventures to be truly data-driven in finding the best tech start-ups to invest in. Recently, [an academic paper](https://aclanthology.org/2021.emnlp-main.791/) authored by the data science team at Motherbrain has been accepted for publication by the [EMNLP 2021](https://2021.emnlp.org/) main conference. The conference is acknowledged as one of the best NLP (Natural Language Processing) academic conferences in the world, with papers previously published from the likes of Google, Facebook and Stanford.**
+**[Motherbrain](https://eqtgroup.com/motherbrain) is a digital platform that leverages Big Data and Machine Learning to give EQT a unique edge. Motherbrain started in 2016 as a platform for EQT Ventures to be truly data-driven in finding the best tech start-ups to invest in. Recently, [an academic paper](https://aclanthology.org/2021.emnlp-main.791/) authored by the data science team at Motherbrain has been accepted for publication by the [EMNLP 2021](https://2021.emnlp.org/) main conference. The conference is acknowledged as one of the best NLP (Natural Language Processing) academic conferences in the world.**
 
-## Data and deep learning in private capital
+**Data and deep learning in private capital**
 
 Investors in financial markets have traditionally relied on personal networks to find the best opportunities. While private capital investors still rely heavily on this strategy, investors in public markets have turned their heads towards a more data driven and algorithmic approach that promotes automation, objectiveness, consistency and adaptability.
 
@@ -21,7 +21,7 @@ There are many processes that would benefit from the application of deep learnin
 
 > Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
-## Leveraging deep learning for competitor mapping
+**Leveraging deep learning for competitor mapping**
 
 Competitor mapping relies on properly measuring the relatedness between any two companies, which typically involves qualitative analysis of textual descriptions to identify similar companies to the target. Automating this process could save time, ensure accuracy, and help identify companies that might otherwise be missed.
 
@@ -31,7 +31,7 @@ Training a state-of-the-art, expert model to understand company descriptions inv
 
 > Is there a way to apply deep learning in a way that allows Motherbrain to leverage an entire company dataset, not just annotated descriptors?
 
-## Yes, there is!
+**Yes, there is!**
 
 PAUSE — Positive and Annealed Unlabeled Sentence Embedding — generates numerical representations from company descriptions, enabling a measurement of closeness between any two companies. It uses an entire dataset, not just annotated descriptors, meaning the model needs far fewer supervision signals to undertake the competitor mapping task successfully. In practise, the proposed method requires about 5–10% of the annotated descriptors. Using the earlier calculation, enabling training models for competitor mapping can be completed in a matter of weeks, rather than 12 months.
 
