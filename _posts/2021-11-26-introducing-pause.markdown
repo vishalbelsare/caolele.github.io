@@ -7,7 +7,9 @@ author: Lele Cao, Sonja Horn
 tags:   EQT
 ---
 
-**[Motherbrain](https://eqtgroup.com/motherbrain) is a digital platform that leverages Big Data and Machine Learning to give EQT a unique edge. Motherbrain started in 2016 as a platform for EQT Ventures to be truly data-driven in finding the best tech start-ups to invest in. Recently, [an academic paper](https://aclanthology.org/2021.emnlp-main.791/) authored by the data science team at Motherbrain has been accepted for publication by the [EMNLP 2021](https://2021.emnlp.org/). The conference is acknowledged as one of the best NLP (Natural Language Processing) academic conferences in the world, with papers previously published from the likes of Google, Facebook and Stanford.**
+**[Motherbrain](https://eqtgroup.com/motherbrain) is a digital platform that leverages Big Data and Machine Learning to give EQT a unique edge. Motherbrain started in 2016 as a platform for EQT Ventures to be truly data-driven in finding the best tech start-ups to invest in.** 
+
+Recently, [an academic paper](https://aclanthology.org/2021.emnlp-main.791/) authored by the data science team at Motherbrain has been accepted for publication by the [EMNLP 2021](https://2021.emnlp.org/). The conference is acknowledged as one of the best NLP (Natural Language Processing) academic conferences in the world, with papers previously published from the likes of Google, Facebook and Stanford.
 
 **Data and deep learning in private capital**
 
