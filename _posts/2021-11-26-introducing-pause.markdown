@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Introducing PAUSE - A deep natural language model for the private markets
-date:   2021-11-26 15:05:55 +0300
+date:   2021-11-26 15:05:00 +0300
 image:  /assets/images/blog/pause.jpg
 author: Lele Cao, Sonja Horn
 tags:   EQT
