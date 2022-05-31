@@ -215,3 +215,9 @@ portfolio-items:
     portfolio-type:
       - type: "ml"
       - type: "cv"
+
+  - image : "assets/images/portfolio/ieee_smc_2020.png"
+    url: "https://ieeexplore.ieee.org/document/8031062"
+    portfolio-type:
+      - type: "ml"
+      - type: "robotics"
