@@ -19,8 +19,6 @@ This is changing. The ubiquity of digitization means that large amounts of high-
 
 There are many processes that would benefit from the application of deep learning: aside from startup success prediction, other examples include deal sourcing and competitor mapping. In all these cases, the successful adoption of deep learning relies on the availability of a large amount of supervision signals — or, in other words, ground truths to “teach” the model how to act in a particular scenario, also called labels or annotations. However, it is practically impossible to get hold of enough supervision signals.
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
 **Leveraging deep learning for competitor mapping**
 
 Competitor mapping relies on properly measuring the relatedness between any two companies, which typically involves qualitative analysis of textual descriptions to identify similar companies to the target. Automating this process could save time, ensure accuracy, and help identify companies that might otherwise be missed.
