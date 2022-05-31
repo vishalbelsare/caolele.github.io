@@ -209,3 +209,9 @@ portfolio-items:
     url: "https://papertalk.org/papertalks/27881"
     portfolio-type:
       - type: "ml"
+
+  - image : "assets/images/portfolio/ijcnn2019.png"
+    url: "https://ieeexplore.ieee.org/document/8852009"
+    portfolio-type:
+      - type: "ml"
+      - type: "cv"
