@@ -108,7 +108,7 @@ experience-title: Experience
 experience:
 - {name: Senior Algorithm Engineer, icon: 'alibaba.png', date: 'Aug 2016 - Apr 2017', organization: 'Alibaba'}
 - {name: Senior Machine Learning Engineer, icon: 'king.png', date: 'Apr 2017 - May 2020', organization: 'King'}
-- {name: Staff Data Scientist and DS/ML Lead, icon: 'eqt.png', date: 'May 2020 - Present', organization: 'EQT'}
+- {name: Staff Research Scientist, icon: 'eqt.png', date: 'May 2020 - Present', organization: 'EQT'}
 
 
 #-------------------------------
