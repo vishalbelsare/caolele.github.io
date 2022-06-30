@@ -7,7 +7,7 @@ author: Lele Cao
 tags:   Computer Vision Research
 ---
 
-**I am super happy to share that two research work I participated got accepted and published by [CVPR 2022](https://cvpr2022.thecvf.com/).🎉** 
+**I am super happy to share that two research work I participated got accepted and published by [CVPR 2022](https://cvpr2022.thecvf.com/)🎉** 
 
 The Conference on Computer Vision and Pattern Recognition (CVPR) is an annual conference on computer vision and pattern recognition, which is regarded as one of the most important conferences in its field. According to [Google 2022 academic indicators](https://scholar.google.com/citations?view_op=top_venues), CVPR maintains the 4th place, second only to Science.
 
