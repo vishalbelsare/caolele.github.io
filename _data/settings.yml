@@ -130,13 +130,13 @@ services:
 - {
     name: Academic Reviewer,
     icon: ti-write,
-    description: 'IEEE Access, Cognitive Computation, ICRA 2018, AAAI 2021, AAAI 2022, ECCV 2022, and IROS2022.',
+    description: 'IEEE Access, Cognitive Computation, ICRA-18, AAAI-21, ECCV-22, IROS-22 and BMVC-22.',
     active: true # Add true to select section
   }
 - {
     name: Committee Member,
     icon: ti-user,
-    description: 'CAAI (Chinese Association for AI) member and program committee member of ECML-PKDD 2020.',
+    description: 'CAAI (Chinese Association for AI) member and program committee member of ECML-PKDD-20, AAAI-22 and AAAI-22.',
     active: # Add true to select section
   }
 - {
