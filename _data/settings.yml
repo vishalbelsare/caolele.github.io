@@ -247,11 +247,17 @@ client-slider-items:
   - logo: "assets/images/clients-logo/emnlp.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/ecml.png"
+  - logo: "assets/images/clients-logo/ecml-pkdd.png"
     url: "#"
 
   - logo: "assets/images/clients-logo/ijcnn.png"
     url: "#"
     
   - logo: "assets/images/clients-logo/recsys.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/cikm.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/icpr.png"
     url: "#"
