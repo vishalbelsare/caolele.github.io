@@ -247,7 +247,7 @@ client-slider-items:
   - logo: "assets/images/clients-logo/emnlp.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/ecml-pkdd.png"
+  - logo: "assets/images/clients-logo/ecmlpkdd.png"
     url: "#"
 
   - logo: "assets/images/clients-logo/ijcnn.png"
