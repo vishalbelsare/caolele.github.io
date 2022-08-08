@@ -249,3 +249,9 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/ecml.png"
     url: "#"
+
+  - logo: "assets/images/clients-logo/ijcnn.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/recsys.png"
+    url: "#"
