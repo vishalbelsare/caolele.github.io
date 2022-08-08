@@ -241,11 +241,11 @@ client-slider-items:
   - logo: "assets/images/clients-logo/cvpr.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/aaai.png"
+  - logo: "assets/images/clients-logo/ijcai.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/cvpr.png"
+  - logo: "assets/images/clients-logo/emnlp.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/aaai.png"
+  - logo: "assets/images/clients-logo/ecml.png"
     url: "#"
