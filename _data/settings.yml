@@ -261,3 +261,9 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/icpr.png"
     url: "#"
+
+  - logo: "assets/images/clients-logo/cog.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/pakdd.png"
+    url: "#"
