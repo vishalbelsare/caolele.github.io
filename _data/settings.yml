@@ -136,7 +136,7 @@ services:
 - {
     name: Committee Member,
     icon: ti-user,
-    description: 'CAAI (Chinese Association for AI) member and program committee member of ECML-PKDD-20, AAAI-22 and AAAI-22.',
+    description: 'CAAI (Chinese Association for AI) member and program committee member of ECML-PKDD-20, AAAI-22 and AAAI-23.',
     active: # Add true to select section
   }
 - {
